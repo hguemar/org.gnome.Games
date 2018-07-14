@@ -49,6 +49,7 @@
         "libretro-cores/libretro-mednafen_pce_fast.json",
         "libretro-cores/libretro-mednafen_wswan.json",
         "libretro-cores/libretro-mgba.json",
+        "libretro-cores/libretro-mupen64plus.json",
         "libretro-cores/libretro-nestopia.json",
         "libretro-cores/libretro-pcsx_rearmed.json",
         "libretro-cores/libretro-prosystem.json",

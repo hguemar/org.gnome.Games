@@ -1,0 +1,4 @@
+include Makefile
+
+install: mupen64plus_libretro.so
+	install -Dp -m755 mupen64plus_libretro.so $(DESTDIR)$(prefix)/lib/libretro/mupen64plus_libretro.so

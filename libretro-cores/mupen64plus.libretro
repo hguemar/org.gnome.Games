@@ -1,0 +1,11 @@
+[Libretro]
+Type=Emulator
+Version=1.0
+Name=bsnes Balanced
+Module=mupen64plus_libretro.so
+LibretroVersion=1
+Authors=byuu;
+License=GPL-3.0;
+
+[Platform:Nintendo64]
+MimeType=application/vnd.nintendo.n64.rom;
